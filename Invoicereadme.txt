@@ -1,6 +1,6 @@
 
 
-1)Please clone the project using clone url 'https://github.com/Ajithp7560/Invoicesystem.git'
+1)Please clone the project using clone url 'https://github.com/Ajithp7560/Invoicesystem.git' then after cloning it will be zip file you can extract it.
 
 2)Database file are found database folder of project folder , you can import it in phpmyadmin
 
